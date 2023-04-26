@@ -3,11 +3,11 @@
 <hr>
 
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+<p align="center">Account creation form for NunesBank virtual bank.</p>
 
-## Tecnologias utilizadas durante o curso
+## Technologies used during the course
 * JavaScript
 
-## Tecnologias utilizadas no projeto
+## Technologies used in the project
 * HTML
 * CSS
